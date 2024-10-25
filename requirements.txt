@@ -1,0 +1,7 @@
+pytest
+pandas
+python-keycloak
+torch
+transformers
+nltk
+scikit-learn
