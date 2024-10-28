@@ -1,6 +1,6 @@
 pytest
 pandas
-python-keycloak
+mantelo
 torch
 transformers
 nltk
